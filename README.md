@@ -1,12 +1,15 @@
 # SourceMod Compiler
 A tool for compiling SourceMod (SourcePawn) plugins
 
+## Requirements
+- Docker
+
 ## Usage
+1. Copy your plugin to the `scripting` folder
+2. Run `./run.sh {plugin_name}`
 
-### If you use Docker
-1.
-
-### Otherwise
+## Roadmap
+- Remove Docker dependency
 
 ## Contributing
 1. Fork the repo
